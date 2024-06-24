@@ -1,6 +1,9 @@
+<!-- 
 <div align="center">
 <img src="https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>
+-->
+
   
 
 ### <div align="center">I'm Raviteja Uppulapu, a learner, full-stack developer 👨‍💻🚀</div>  
